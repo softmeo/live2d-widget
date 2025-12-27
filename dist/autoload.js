@@ -5,7 +5,7 @@
 
 // Recommended to use absolute path for live2d_path parameter
 // live2d_path 参数建议使用绝对路径
-const live2d_path = 'https://fastly.jsdelivr.net/gh/softmeo/live2d-widget@master/';
+const live2d_path = 'https://raw.githubusercontent.com/Eikanya/Live2d-model/refs/heads/master/%E5%B4%A9%E5%9D%8F%E5%AD%A6%E5%9B%AD2/Kiana/model.json';
 // const live2d_path = '/dist/';
 
 // Method to encapsulate asynchronous resource loading
